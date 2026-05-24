@@ -1,2 +1,2 @@
 # ANS-batch1975-alumni
-Digital Portal for Abellan National School Batch 1975
+Digital Portal for Abellana National School Batch 1975
